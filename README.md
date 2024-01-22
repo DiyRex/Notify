@@ -27,7 +27,7 @@ nuget install NotifyLib
 You can customize various properties of the NotifyPopup class to suit your application's needs.
 
 ```bash
-using NotifyLib;
+using Notify;
 
 // ...
 
